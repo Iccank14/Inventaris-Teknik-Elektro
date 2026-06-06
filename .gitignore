@@ -1,0 +1,5 @@
+vendor/
+qrcodes/
+assets/uploads/
+config/config.php
+composer.lock
